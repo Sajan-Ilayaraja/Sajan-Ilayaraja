@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ram Jeeva Sajan I</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">a B.Tech IT student (UG’27) at PSNA College of Engineering and Technology with a strong passion for learning and innovation. Currently, as a Fellow at NxtWave’s CCBP Academy, I’m honing my skills in full-stack development and AI-driven platforms.
+
+My goal is to revolutionize the tech sphere through creativity, collaboration, and impactful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajan-ilayaraja&label=Profile%20views&color=0e75b6&style=flat" alt="sajan-ilayaraja" /> </p>
 

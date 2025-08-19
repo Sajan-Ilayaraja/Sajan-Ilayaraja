@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajan-ilayaraja" alt="sajan-ilayaraja" /></a> </p>
 
+- 🌱 I’m currently learning **Full Stack**
+
+- 💬 Ask me about **Python**
+
 - 📫 How to reach me **sajanilayaraja007@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mPu2AeP_XjaQcSLKApyT9v3dCxLb_wVK/view?usp=sharing](https://drive.google.com/file/d/1mPu2AeP_XjaQcSLKApyT9v3dCxLb_wVK/view?usp=sharing)
 
 - ⚡ Fun fact **I always wink😉**
 
